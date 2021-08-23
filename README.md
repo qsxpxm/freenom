@@ -2,7 +2,7 @@
 <h1>Freenom：freenom域名自动续期</h1>
 [![Build Status](https://img.shields.io/badge/build-passed-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/build-status/master)
 [![Php Version](https://img.shields.io/badge/php-%3E=7.2-brightgreen.svg?style=for-the-badge)](https://secure.php.net/)
-[![Scrutinizer Code Quality](htpps://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
+[![Scrutinizer Code Quality]htpps://img.shields.io/badge/scrutinizer-9.31-brightgreen?style=for-the-badge)](https://scrutinizer-ci.com/g/luolongfei/freenom/?branch=master)
 [![MIT License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=for-the-badge)](https://github.com/luolongfei/freenom/blob/master/LICENSE)
 
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/master/README_EN.md) | 中文版
@@ -313,7 +313,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ![pay](https://s2.ax1x.com/2020/01/31/1394at.png "Donate")
 
-![每一次你花的钱都是在为你要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
+![每一次你花的钱都是在为你要的世界票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
 
 **你的star或者小额打赏是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。**
 
